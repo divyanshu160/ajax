@@ -1,1 +1,1 @@
-# randon joke generator using ajax
+# random joke generator using ajax
